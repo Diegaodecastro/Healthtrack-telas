@@ -1,0 +1,28 @@
+
+*{font-family: helvetica;}
+
+
+.space-top {
+       display:inline-block;
+       padding-bottom: 25px;
+}
+
+.center-text {
+text-align: center;
+width: 100%;
+}
+
+#banner-top {
+  background-color: #A6EDE9;
+  width: 100%;
+}
+
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:20%;
+}
+
+a:hover{color:gray;}
